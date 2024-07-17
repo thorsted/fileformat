@@ -8,15 +8,18 @@
 - https://github.com/exponential-decay/moonshine
 - https://www.webarchive.org.uk/shine/search?facet.sort=index&tab=results
 - https://docs.github.com/en/rest/search#example
+- https://docs.github.com/en/search-github/github-code-search/understanding-github-code-search-syntax
 - https://www.google.com/search?q=%22index+of%22+%22.doc%22&oq=%22index+of%22+%22.doc%22
 
 ## eLearning
 
 - https://www.linkedin.com/learning/
+- https://github.com/LinkedInLearning
 - https://www.pluralsight.com/
 - https://resources.oreilly.com/examples
 - https://www.wiley.com/en-us/search?pq=%7Crelevance
 - https://www.sdcpublications.com/Textbooks/
+- https://github.com/PacktPublishing
 
 ## Corpus
 
