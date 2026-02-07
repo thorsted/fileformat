@@ -20,6 +20,7 @@
 - https://www.wiley.com/en-us/search?pq=%7Crelevance
 - https://www.sdcpublications.com/Textbooks/
 - https://github.com/PacktPublishing
+- https://www.iconlogic.com/
 
 ## Corpus
 
