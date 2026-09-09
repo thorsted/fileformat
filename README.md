@@ -17,7 +17,7 @@
 - https://github.com/LinkedInLearning
 - https://www.pluralsight.com/
 - https://resources.oreilly.com/examples
-- https://www.wiley.com/en-us/search?pq=%7Crelevance
+- https://www.wiley.com/en-us/search/?category=products
 - https://www.sdcpublications.com/Textbooks/
 - https://github.com/PacktPublishing
 - https://www.iconlogic.com/
